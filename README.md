@@ -6,10 +6,10 @@ The premise is simple: Input a file path, read the data in the file, and then fo
 
 **Test file paths you can use to see the program in action:**
 
-./test/example1.txt
-./test/example2.txt
-./test/example3.txt
-./test/example4.txt
+./test/example1.txt<br/>
+./test/example2.txt<br/>
+./test/example3.txt<br/>
+./test/example4.txt<br/>
 ./test/example5.txt
 
 Otherwise, use any file path you'd like from your own system and see how it works!
